@@ -1,4 +1,4 @@
-# Tomato Pests and Diseases Detection Dataset  
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/f78ac8f6-6a80-4ee9-ad38-947cdd902ebf" /># Tomato Pests and Diseases Detection Dataset  
 *Supporting the paper: **“YOLOv11n-KL: A Lightweight Tomato Pests and Diseases Detection Model for Edge Devices”***
 
 ## 📘 Overview  
@@ -49,12 +49,12 @@ The dataset is randomly divided into training, validation, and test subsets at a
 
 | Subset      | Ratio | Image Count |
 |-------------|-------|-------------|
-| Training    | 80%   | – |
-| Validation  | 10%   | – |
-| Test        | 10%   | – |
+| Training    | 80%   | 8343 |
+| Validation  | 10%   | 1043 |
+| Test        | 10%   | 1043 |
 
-*(Add exact counts if required.)*
+## 📚 Citation  
+If you use this dataset in your research, please cite our paper。
 
-## 📁 File Structure  
-A typical folder organization is as follows:
+
 
