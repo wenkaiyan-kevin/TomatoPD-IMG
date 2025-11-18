@@ -1,4 +1,4 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/f78ac8f6-6a80-4ee9-ad38-947cdd902ebf" /># Tomato Pests and Diseases Detection Dataset  
+# Tomato Pests and Diseases Detection Dataset  
 *Supporting the paper: **“YOLOv11n-KL: A Lightweight Tomato Pests and Diseases Detection Model for Edge Devices”***
 
 ## 📘 Overview  
