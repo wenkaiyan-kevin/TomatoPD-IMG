@@ -1,1 +1,2 @@
-test
+The dataset comprises 13 categories of tomato pests and diseases, covering both fruit- and leaf-related symptoms. Specifically, the fruit-related categories consist of healthy fruit, Sunscald, Blossom End Rot, Fruit Cracking, Spotted Wilt Virus (Fruit), and Bacterial Spot (Fruit). The leaf-related categories include Mosaic Virus, Late Blight, Early Blight, Leaf miner Damage, Leaf Mold, Septoria Leaf Spot, Spider Mite Damage, Yellow Leaf Curl Virus, and healthy leaf.
+
