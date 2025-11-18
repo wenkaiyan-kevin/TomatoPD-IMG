@@ -1,0 +1,21 @@
+# nc: 9 0-8
+train: /root/psb/binghai/train/images
+val: /root/psb/binghai/val/images
+test: /root/psb/binghai/test/images
+nc: 15
+names: ['Early Blight Leaf', 'Healthy Leaf', 'Late Blight Leaf', 'Leaf Miner', 'Leaf Mold', 'Mosaic Virus Leaf', 'Septoria Leaf', 'Spider Mites Leaf', 'Yellow Leaf Curl Virus','Bacterial Spot Fruit', 'Blossom End Rot Fruit', 'Cracking Fruit', 'Healthy Fruit', 'Spotted wilt Virus Fruit', 'Sunscald Fruit']
+# nc: 6 9-14
+# names: ['Bacterial Spot Fruit', 'Blossom End Rot Fruit', 'Cracking Fruit', 'Healthy Fruit', 'Spotted wilt Virus Fruit', 'Sunscald Fruit']
+# 0-->9
+# 1--->10
+# 2--->11
+# 3--->12
+# 4--->13
+# 5--->14
+
+# total 10429
+# 数据集划分开始
+# 训练集 8344
+# 验证集 1043
+# 测试集 1042
+
